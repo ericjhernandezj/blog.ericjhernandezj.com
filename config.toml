@@ -13,6 +13,8 @@ ignoreErrors = ["error-remote-getjson"]
 theme = "paper"
 title = "Eric Joel Hernandez Javier"
 
+disqusShortname = 'blog-ericjhernandezj-com'
+
 [params]
   color = 'grey'
 
