@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Eric Joel Hernandez Javier</title>
+    <link>https://blog.ericjhernandezj.com/tags/test/</link>
+    <description>Recent content in test on Eric Joel Hernandez Javier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-MX</language>
+    <copyright>Copyright © 2008–2019, Eric Joel Hernandez Javier (@ericjhernandezj); all rights reserved.</copyright>
+    <lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.ericjhernandezj.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publicación de Prueba</title>
+      <link>https://blog.ericjhernandezj.com/post/test-post/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ericjhernandezj.com/post/test-post/</guid>
+      <description>Probando Tema
+Hola </description>
+    </item>
+    
+    <item>
+      <title>Publicación de Prueba 2</title>
+      <link>https://blog.ericjhernandezj.com/post/second-test-post/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.ericjhernandezj.com/post/second-test-post/</guid>
+      <description>Probando Tema
+Hola 2 </description>
+    </item>
+    
+  </channel>
+</rss>
